@@ -7,8 +7,8 @@ Neste projeto, exploramos um [dataset](https://www.kaggle.com/datasets/justinas/
 
 ### Perguntas
 - Jogadores com posições melhores no _draft_ tiveram uma maior média de pontos? 
-- Jogadores acima de 40 anos jogam menos partidas que os mais novos?
-- Qual time possuí os jogadores que mais marcaram?
+- Jogadores acima de 35 anos jogam menos partidas que os mais novos?
+- Existe diferença de resultados em jogadores com portes físicos diferentes?
 
 ## Equipe
 - [Gabriel Rocha Porto](https://github.com/gabrielrporto)
